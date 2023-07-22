@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/team48_autodiff_package/__init__.py
+src/team48_autodiff_package_final_project.egg-info/PKG-INFO
+src/team48_autodiff_package_final_project.egg-info/SOURCES.txt
+src/team48_autodiff_package_final_project.egg-info/dependency_links.txt
+src/team48_autodiff_package_final_project.egg-info/not-zip-safe
+src/team48_autodiff_package_final_project.egg-info/requires.txt
+src/team48_autodiff_package_final_project.egg-info/top_level.txt
