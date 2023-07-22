@@ -1,5 +1,13 @@
 # Forward Automatic Differentiation Python Package Project
-This is a forward- focused auto differentiation package that was created as a final project in CS107 by Sam DePaolo, Nick Dow, and Alexander Fung. How to install the package and documentation is located in "documentation.ipynb" file. This package features forward automatic differentiation with some light backwards automatic differentiation (some parts of backwards autodiff were completed, but additional vector handling was not completed due to time constraints). This repository also features tests for our package. 
+This is a automatic differentiation package that was created as a final project in CS107 by Sam DePaolo, Nick Dow, and Alexander Fung. How to install the package and documentation is located in "docs/documentation.ipynb". This package features forward automatic differentiation with some light backwards automatic differentiation (some parts of backwards autodiff were completed, but additional vector handling was not completed due to time constraints). This repository also features tests for our package. 
+
+The package can be installed via the following commands:
+'''
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+pip install -i https://test.pypi.org/simple/ team48-autodiff-package
+'''
+Example use cases can be found in docs/documentation.ipynb.
 
 # Broader Impact and inclusivity Statement
 
